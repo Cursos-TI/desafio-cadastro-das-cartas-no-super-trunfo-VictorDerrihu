@@ -12,7 +12,7 @@ int main(){
   float pib;
   int turistic_points;
 
-  // Declaração das variáveis dos valores utilizados na carta 2char state;
+  // Declaração das variáveis dos valores utilizados na carta 2;
 
   char state_2;
   char cod_2[3];
