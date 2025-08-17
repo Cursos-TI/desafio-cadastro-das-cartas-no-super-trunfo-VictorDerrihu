@@ -5,7 +5,7 @@ int main(){
   // Declaração das variáveis dos valores utilizados na carta 1
 
   char state;
-  char cod[3];
+  char cod[3]; 
   char city_name[20];
   int population;
   float area;
