@@ -73,7 +73,7 @@ int main(){
   printf("Qual é o número de pontos túristicos da cidade?\n");
   scanf("%d",&turistic_points_2);
 
-  printf("\nCarta 2:\nEstado: %c\nCódigo: %s\nNome da Cidade: %s\nPopulação: %d\nÁrea: %f km²\nPIB: %f bilhões de reais\nNúmero de Pontos Turísticos: %d\n",state,cod,city_name,population,area,pib,turistic_points);
+  printf("\nCarta 2:\nEstado: %c\nCódigo: %s\nNome da Cidade: %s\nPopulação: %d\nÁrea: %f km²\nPIB: %f bilhões de reais\nNúmero de Pontos Turísticos: %d\n",state_2,cod_2,city_name_2,population_2,area_2,pib_2,turistic_points_2);
   
    return 0;
 }
